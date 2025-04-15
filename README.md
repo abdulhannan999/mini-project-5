@@ -8,7 +8,7 @@ A modern responsive portfolio grid layout showcasing creative projects with hove
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.jpeg)
 
 ---
 
